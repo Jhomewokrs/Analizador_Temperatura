@@ -13,6 +13,7 @@
 
 
 2 ¿Por qué es importante validar la entrada del usuario? OWAPS
+
 Se refiere al proceso de verificar que los datos proporcionados por un usuario cumplan con los requisitos esperados antes de ser procesados ​​por un sistema de aplicación. Para evitar vulnerabilidades y ataques web comunes.
 
 3. ¿Qué beneficios obtiene separando el código en funciones o clases?
